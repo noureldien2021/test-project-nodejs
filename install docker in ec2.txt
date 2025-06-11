@@ -1,0 +1,3 @@
+https://comtechies.com/password-authentication-aws-ec2.html
+
+https://support.netfoundry.io/hc/en-us/articles/360057865692-Installing-Docker-and-docker-compose-for-Ubuntu-20-04
